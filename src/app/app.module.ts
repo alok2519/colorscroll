@@ -15,7 +15,7 @@ import { ColorScrollColorDetailsComponent } from './color-details';
     BrowserModule,
     SharedModule,
     TheColorApiModule,
-    ColorScrollLayoutModule
+    ColorScrollLayoutModule 
   ],
   providers: [
     LiveColorService,
